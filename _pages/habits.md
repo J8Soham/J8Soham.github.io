@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Habits"
+title: "habits"
 author_profile: true
 redirect_from: 
   - /habits/
 ---
 
-# Habit Tracker
+# Habits
 
 ## Exercise - 2025
 ```
