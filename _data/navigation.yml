@@ -24,7 +24,7 @@ main:
     url: /cv/
 
   - title: "Habits"
-    url: /habit-tracker/
+    url: /habits/
     
   # - title: "CV"
   #   url: /cv-json/

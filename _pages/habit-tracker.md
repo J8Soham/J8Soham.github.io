@@ -1,10 +1,9 @@
 ---
-title: 'Habit Tracker Proto'
-date: 2025-04-19
-permalink: /habit-tracker/
-tags:
-  - just starting
-  - plain md 
+permalink: /
+title: "Habits"
+author_profile: true
+redirect_from: 
+  - /habits/
 ---
 
 # Habit Tracker
