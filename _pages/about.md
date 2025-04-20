@@ -42,4 +42,4 @@ My technical toolkit includes:
 - **Frameworks**: React, Next.js, TensorFlow, Angular, Firebase, Vue.js
 - **Technologies**: Git, Docker, Vim, MatLab, Raspberry Pi, Figma, Ubuntu, POSIX Threads
 
-##Other
+## Other
