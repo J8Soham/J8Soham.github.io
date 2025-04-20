@@ -1,12 +1,11 @@
 ---
-permalink: /
-title: "habits"
+permalink: /habits/
+title: "Habits"
 author_profile: true
 redirect_from: 
   - /habits/
+  - /Habits/
 ---
-
-# Habits
 
 ## Exercise - 2025
 ```
@@ -32,7 +31,7 @@ redirect_from:
 
 ### How to mark completion:
 - □ (not done)
-- + (completed)
+- '+' (completed)
 - ~ (partial)
 
 ### Stats for April 2025:
